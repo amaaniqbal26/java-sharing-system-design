@@ -13,12 +13,12 @@ An object-oriented system design for a community sharing scheme managing books, 
 ### 1. Class Diagram
 Maps out the domain model including the base `Item` class, derived `Book` and `DVD` classes, `Member` tracking, and relationships.
 
-![Class Diagram]<img width="4284" height="4940" alt="ISASystem Item Management-2026-09-18-025300" src="https://github.com/user-attachments/assets/0268f9f8-2f71-416a-a574-e458568df8ed" />
+<img width="4284" height="4940" alt="ISASystem Item Management-2026-09-18-025300" src="https://github.com/user-attachments/assets/0268f9f8-2f71-416a-a574-e458568df8ed" />
 
 ### 2. Use Case Diagram
 Highlights primary administrative actions: searching items/members, managing inventory, processing loans, and handling returns.
 
-![Use Case Diagram]<img width="8191" height="2517" alt="ISASystem Item Management-2026-09-18-025701" src="https://github.com/user-attachments/assets/6f09ffba-3487-478c-aa66-95ffb6bac559" />
+<img width="8191" height="2517" alt="ISASystem Item Management-2026-09-18-025701" src="https://github.com/user-attachments/assets/6f09ffba-3487-478c-aa66-95ffb6bac559" />
 
 
 ### 3. Sequence & Activity Diagrams
